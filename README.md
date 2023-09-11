@@ -1,11 +1,12 @@
 <img src="https://e0.pxfuel.com/wallpapers/358/714/desktop-wallpaper-stefan-iordache-your-desired-developer-to-make-your-perfect-responsive-website-web-programming.jpg" />
-<h1 align="center">Hi 👋, sou o Klaus! </h1>
+<h1 align="center">Oi 👋, sou o Klaus! </h1>
 <h3 align="center">Full-Stack Web Developer, pai de pets e nerd! </h3>
   
 <hr/>
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/klaus-kindermann-7292aa1b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thicode" height="30" width="40" /></a>
+<a href="mailto:klauskindermann94@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 <hr/>
 <h3 align="left">Linguagens e ferramentas:</h3>
