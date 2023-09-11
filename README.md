@@ -6,7 +6,7 @@
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/klaus-kindermann-7292aa1b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="klaus" height="30" width="40" /></a>
-<a href="mailto:klauskindermann94@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="klaus" height="30" width="40" /></a>
+<a href="mailto:klauskindermann94@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="klaus" height="30" width="40" /></a>
 </p>
 <hr/>
 <h3 align="left">Linguagens e ferramentas:</h3>
