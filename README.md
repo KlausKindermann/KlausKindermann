@@ -1,6 +1,6 @@
 <img src="https://e0.pxfuel.com/wallpapers/358/714/desktop-wallpaper-stefan-iordache-your-desired-developer-to-make-your-perfect-responsive-website-web-programming.jpg" />
 <h1 align="center">Oi, sou o Klaus! </h1>
-<h3 align="center">FullStack Developer</h3>
+<h3 align="center">Full-Stack Web Developer, pai de plantas e nerd</h3>
   
 <hr/>
 <h3 align="left">Fale comigo:</h3>
